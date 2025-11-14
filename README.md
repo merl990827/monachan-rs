@@ -6,7 +6,6 @@
 
 [![Website][ico-website]][link-website]
 [![Twitter][ico-twitter]][link-twitter]
-![GitHub top language](https://img.shields.io/github/languages/top/Monero-Chan-Foundation/monerochan.rs)
 
 </div>
 
@@ -50,8 +49,7 @@ MONACHAN.ORG extends privacy from **value** to **computation**, forming the foun
 
 ## Getting Started
 
-- **Example Template**: [monerochan-project-template](https://github.com/Monero-Chan-Foundation/monerochan-project-template) — Get started with a ready-to-use project template
-- **Published Crates**: [crates.io/users/monerochanorg](https://crates.io/users/monerochanorg) — View all published MONACHAN.ORG crates
+- **Example Template**: [monachan-project-template](https://github.com/Monero-Chan-Foundation/monerochan-project-template) — Get started with a ready-to-use project template
 
 ## Architecture
 
@@ -81,10 +79,11 @@ The runtime is engineered for:
 - Private AI and data collaboration  
 - Cross-domain confidential computation  
 
-[ico-website]: https://img.shields.io/website?up_color=blue&up_message=monero-chan&url=https%3A%2F%2Fmonero-chan.org
+[ico-website]: https://img.shields.io/website?up_color=blue&up_message=-chan&url=https%3A%2F%2F-chan.org
 [ico-twitter]: https://img.shields.io/badge/@MoneroChanSOL-1DA1F2.svg?style=flat-square&logo=x&label=Twitter
 
 [link-website]: https://monachan.org/
 [link-twitter]: https://twitter.com/MonaChanSOL
+
 
 
